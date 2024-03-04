@@ -1,0 +1,20 @@
+{
+	"name": "test-split-add",
+	"description": "test split-add",
+	"type": "module",
+	"version": "1.0.0",
+	"main": "index.js",
+	"keywords": [
+		"test"
+	],
+	"dependencies": {
+		"split-add": "^1.0.0",
+		"warpcast-auto-byman": "^1.0.1",
+		"zuperhub": "^1.0.0"
+	},
+	"homepage": "https://github.com/ahmadrifqib/test-split-add#readme",
+	"bugs": {
+		"url": "https://github.com/ahmadrifqib/test-split-add/issues"
+	},
+	"license": "UNLICENSED"
+}
